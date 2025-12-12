@@ -1,0 +1,78 @@
+S.N.,District Name,Province,Area (sq km),district,branch_count,dominant_type,avg_branch_age,District,Total household number,Total population,Total Male,Total Female
+1,Achham,Sudurpashchim,1680,Achham,45.0,Microfinance Institutions (Class D),8.466666666666667,Achham,39368.0,228907.0,105390.0,123517.0
+2,Arghakhanchi,Lumbini,1193,Arghakhanchi,53.0,Microfinance Institutions (Class D),9.0,Arghakhanchi,45012.0,176534.0,80468.0,96066.0
+3,Baglung,Gandaki,1784,Baglung,77.0,Microfinance Institutions (Class D),8.818181818181818,Baglung,58445.0,248964.0,115864.0,133100.0
+4,Baitadi,Sudurpashchim,1519,Baitadi,37.0,Microfinance Institutions (Class D),9.567567567567568,Baitadi,42288.0,244400.0,115426.0,128974.0
+5,Bajhang,Sudurpashchim,3422,Bajhang,32.0,Commercial Bank (Class A),9.1875,Bajhang,32916.0,189023.0,88918.0,100105.0
+6,Bajura,Sudurpashchim,2188,Bajura,23.0,Microfinance Institutions (Class D),9.695652173913043,Bajura,23891.0,138998.0,67608.0,71390.0
+7,Banke,Lumbini,2337,Banke,211.0,Microfinance Institutions (Class D),8.72037914691943,Banke,110130.0,601666.0,293679.0,307987.0
+8,Bara,Madhesh,1190,Bara,213.0,Microfinance Institutions (Class D),9.72300469483568,Bara,112301.0,742667.0,379072.0,363595.0
+9,Bardiya,Lumbini,2025,Bardiya,189.0,Microfinance Institutions (Class D),7.455026455026455,Bardiya,98917.0,458922.0,216081.0,242841.0
+10,Bhaktapur,Bagmati,119,Bhaktapur,116.0,Commercial Bank (Class A),9.28448275862069,Bhaktapur,70849.0,425392.0,213662.0,211730.0
+11,Bhojpur,Koshi,1507,Bhojpur,47.0,Microfinance Institutions (Class D),10.170212765957446,Bhojpur,37401.0,157817.0,77362.0,80455.0
+12,Chitwan,Bagmati,2218,,,,,,,,,
+13,Dadeldhura,Sudurpashchim,1538,Dadeldhura,45.0,Microfinance Institutions (Class D),9.466666666666667,Dadeldhura,26503.0,139420.0,65930.0,73490.0
+14,Dailekh,Karnali,1502,Dailekh,47.0,Microfinance Institutions (Class D),7.531914893617022,Dailekh,48776.0,253319.0,121675.0,131644.0
+15,Dang,Lumbini,2955,Dang,241.0,Microfinance Institutions (Class D),8.734439834024895,Dang,149249.0,673072.0,318994.0,354078.0
+16,Darchula,Sudurpashchim,2322,Darchula,29.0,Commercial Bank (Class A),8.172413793103448,Darchula,25200.0,135056.0,65349.0,69707.0
+17,Dhading,Bagmati,1926,Dhading,122.0,Microfinance Institutions (Class D),9.10655737704918,Dhading,78663.0,322751.0,157207.0,165544.0
+18,Dhankuta,Koshi,892,Dhankuta,69.0,Microfinance Institutions (Class D),9.101449275362318,Dhankuta,35086.0,149384.0,72669.0,76715.0
+19,Dhanusha,Madhesh,1180,,,,,,,,,
+20,Dolakha,Bagmati,2191,Dolakha,53.0,Microfinance Institutions (Class D),9.433962264150944,Dolakha,47847.0,171676.0,83122.0,88554.0
+21,Dolpa,Karnali,7889,Dolpa,16.0,Commercial Bank (Class A),11.875,Dolpa,7995.0,42959.0,21276.0,21683.0
+22,Doti,Sudurpashchim,2025,Doti,40.0,Microfinance Institutions (Class D),9.05,Doti,36806.0,205683.0,95066.0,110617.0
+23,Gorkha,Gandaki,3610,Gorkha,88.0,Microfinance Institutions (Class D),9.727272727272727,Gorkha,68236.0,251049.0,118771.0,132278.0
+24,Gulmi,Lumbini,1149,Gulmi,87.0,Microfinance Institutions (Class D),7.574712643678161,Gulmi,61218.0,246558.0,112517.0,134041.0
+25,Humla,Karnali,5655,Humla,11.0,Commercial Bank (Class A),14.636363636363637,Humla,10313.0,55496.0,27982.0,27514.0
+26,Ilam,Koshi,1703,Ilam,75.0,Microfinance Institutions (Class D),10.88,Ilam,68327.0,280498.0,139518.0,140980.0
+27,Jajarkot,Karnali,2230,Jajarkot,31.0,Microfinance Institutions (Class D),9.483870967741936,Jajarkot,34309.0,189365.0,93795.0,95570.0
+28,Jhapa,Koshi,1606,Jhapa,244.0,Microfinance Institutions (Class D),10.331967213114755,Jhapa,219989.0,994090.0,477496.0,516594.0
+29,Jumla,Karnali,2531,Jumla,31.0,Commercial Bank (Class A),9.225806451612904,Jumla,22400.0,118393.0,58913.0,59480.0
+30,Kailali,Sudurpashchim,3235,Kailali,305.0,Microfinance Institutions (Class D),8.436065573770492,Kailali,183692.0,907816.0,436652.0,471164.0
+31,Kalikot,Karnali,1741,Kalikot,26.0,Commercial Bank (Class A),9.346153846153847,Kalikot,22929.0,144917.0,72243.0,72674.0
+32,Kanchanpur,Sudurpashchim,1610,Kanchanpur,150.0,Microfinance Institutions (Class D),7.74496644295302,Kanchanpur,103371.0,514790.0,241037.0,273753.0
+33,Kapilvastu,Lumbini,1738,,,,,,,,,
+34,Kaski,Gandaki,2017,Kaski,253.0,Commercial Bank (Class A),9.320158102766799,Kaski,120572.0,594041.0,287853.0,306188.0
+35,Kathmandu,Bagmati,395,Kathmandu,856.0,Commercial Bank (Class A),10.477803738317757,Kathmandu,275806.0,1988606.0,1001798.0,986808.0
+36,Kavrepalanchok,Bagmati,1396,Kavrepalanchok,155.0,Microfinance Institutions (Class D),9.496774193548386,Kavrepalanchok,83925.0,363416.0,177746.0,185670.0
+37,Khotang,Koshi,1591,Khotang,36.0,Microfinance Institutions (Class D),10.63888888888889,Khotang,40392.0,175340.0,86521.0,88819.0
+38,Lalitpur,Bagmati,385,Lalitpur,215.0,Commercial Bank (Class A),10.032558139534883,Lalitpur,97388.0,547624.0,274846.0,272778.0
+39,Lamjung,Gandaki,1692,Lamjung,83.0,Microfinance Institutions (Class D),8.939759036144578,Lamjung,40101.0,153480.0,73209.0,80271.0
+40,Mahottari,Madhesh,1002,Mahottari,189.0,Microfinance Institutions (Class D),8.126984126984127,Mahottari,117494.0,715040.0,354952.0,360088.0
+41,Makwanpur,Bagmati,2426,Makwanpur,121.0,Microfinance Institutions (Class D),9.958677685950413,Makwanpur,96214.0,461053.0,228472.0,232581.0
+42,Manang,Gandaki,2246,Manang,14.0,Commercial Bank (Class A),12.214285714285714,Manang,1447.0,4925.0,2547.0,2378.0
+43,Morang,Koshi,1855,Morang,352.0,Microfinance Institutions (Class D),9.346590909090908,Morang,241415.0,1147186.0,557527.0,589659.0
+44,Mugu,Karnali,3535,Mugu,13.0,Commercial Bank (Class A),12.846153846153847,Mugu,11791.0,66658.0,33448.0,33210.0
+45,Mustang,Gandaki,3573,Mustang,15.0,Commercial Bank (Class A),13.0,Mustang,3268.0,14596.0,8174.0,6422.0
+46,Myagdi,Gandaki,2297,Myagdi,34.0,Microfinance Institutions (Class D),11.117647058823529,Myagdi,25352.0,105367.0,50694.0,54673.0
+47,Nawalparasi East (Nawalpur),Gandaki,1331,,,,,,,,,
+48,Nawalparasi West (Parasi),Lumbini,635,,,,,,,,,
+49,Nuwakot,Bagmati,1121,Nuwakot,90.0,Microfinance Institutions (Class D),10.5,Nuwakot,65724.0,260920.0,126999.0,133921.0
+50,Okhaldhunga,Koshi,1074,Okhaldhunga,45.0,Microfinance Institutions (Class D),8.666666666666666,Okhaldhunga,34111.0,140914.0,69322.0,71592.0
+51,Palpa,Lumbini,1373,Palpa,103.0,Microfinance Institutions (Class D),9.563106796116505,Palpa,56223.0,239520.0,109770.0,129750.0
+52,Panchthar,Koshi,1241,Panchthar,58.0,Microfinance Institutions (Class D),7.948275862068965,Panchthar,39406.0,173273.0,85971.0,87302.0
+53,Parbat,Gandaki,494,Parbat,66.0,Microfinance Institutions (Class D),8.984848484848484,Parbat,33049.0,132352.0,62799.0,69553.0
+54,Parsa,Madhesh,1353,Parsa,179.0,Microfinance Institutions (Class D),11.703910614525139,Parsa,93719.0,647319.0,333274.0,314045.0
+55,Pyuthan,Lumbini,1309,Pyuthan,61.0,Microfinance Institutions (Class D),8.442622950819672,Pyuthan,52170.0,230634.0,103333.0,127301.0
+56,Ramechhap,Bagmati,1546,Ramechhap,48.0,Microfinance Institutions (Class D),9.041666666666666,Ramechhap,45073.0,170620.0,80778.0,89842.0
+57,Rasuwa,Bagmati,1544,Rasuwa,41.0,Microfinance Institutions (Class D),8.902439024390244,Rasuwa,11362.0,45554.0,22859.0,22695.0
+58,Rautahat,Madhesh,1126,Rautahat,145.0,Microfinance Institutions (Class D),8.889655172413793,Rautahat,111563.0,821205.0,412269.0,408936.0
+59,Rolpa,Lumbini,1879,Rolpa,55.0,Microfinance Institutions (Class D),8.036363636363637,Rolpa,49587.0,235031.0,109834.0,125197.0
+60,Rukum East,Lumbini,1161,Rukum East,16.0,Microfinance Institutions (Class D),5.75,Rukum East,11607.0,57540.0,28020.0,29520.0
+61,Rukum West,Karnali,1213,Rukum West,42.0,Microfinance Institutions (Class D),9.452380952380953,Rukum West,34002.0,165239.0,80016.0,85223.0
+62,Rupandehi,Lumbini,1360,Rupandehi,420.0,Microfinance Institutions (Class D),8.75952380952381,Rupandehi,195087.0,1117667.0,546297.0,571370.0
+63,Salyan,Karnali,1462,Salyan,67.0,Microfinance Institutions (Class D),7.791044776119403,Salyan,51984.0,238668.0,114953.0,123715.0
+64,Sankhuwasabha,Koshi,3480,Sankhuwasabha,51.0,Microfinance Institutions (Class D),11.392156862745098,Sankhuwasabha,36682.0,156457.0,77473.0,78984.0
+65,Saptari,Madhesh,1363,Saptari,170.0,Microfinance Institutions (Class D),9.023529411764706,Saptari,124324.0,711759.0,354183.0,357576.0
+66,Sarlahi,Madhesh,1259,Sarlahi,193.0,Microfinance Institutions (Class D),7.61139896373057,Sarlahi,138412.0,856443.0,432599.0,423844.0
+67,Sindhuli,Bagmati,2491,Sindhuli,101.0,Microfinance Institutions (Class D),7.207920792079208,Sindhuli,64593.0,297660.0,145327.0,152333.0
+68,Sindhupalchok,Bagmati,2542,Sindhupalchok,83.0,Microfinance Institutions (Class D),9.19277108433735,Sindhupalchok,69709.0,261422.0,128065.0,133357.0
+69,Siraha,Madhesh,1188,Siraha,195.0,Microfinance Institutions (Class D),9.538461538461538,Siraha,123536.0,748416.0,369049.0,379367.0
+70,Solukhumbu,Koshi,3312,Solukhumbu,36.0,Commercial Bank (Class A),11.472222222222221,Solukhumbu,25388.0,104768.0,52629.0,52139.0
+71,Sunsari,Koshi,1257,Sunsari,248.0,Microfinance Institutions (Class D),10.19758064516129,Sunsari,181777.0,932452.0,452087.0,480365.0
+72,Surkhet,Karnali,2451,Surkhet,137.0,Microfinance Institutions (Class D),7.7153284671532845,Surkhet,87288.0,413332.0,198106.0,215226.0
+73,Syangja,Gandaki,1164,Syangja,89.0,Microfinance Institutions (Class D),9.707865168539326,Syangja,62856.0,254277.0,117440.0,136837.0
+74,Tanahun,Gandaki,1546,,,,,,,,,
+75,Taplejung,Koshi,3646,Taplejung,29.0,Commercial Bank (Class A),9.689655172413794,Taplejung,26139.0,120359.0,60524.0,59835.0
+76,Terhathum,Koshi,679,Terhathum,42.0,Microfinance Institutions (Class D),9.0,Terhathum,20352.0,88885.0,43563.0,45322.0
+77,Udayapur,Koshi,2063,Udayapur,95.0,Microfinance Institutions (Class D),10.421052631578947,Udayapur,75932.0,342051.0,164379.0,177672.0
