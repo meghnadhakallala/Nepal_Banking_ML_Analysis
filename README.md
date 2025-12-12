@@ -1,5 +1,7 @@
 # Nepal_Banking_ML_Analysis Banking Branch Distribution & Financial Access in Nepal
 
+GOOGLE COLLAB LINK :https://colab.research.google.com/drive/1JBPDBN4VNIgVERyk6uCGvqERbwI7MaXO?usp=sharing
+
 This repository contains code, datasets, and results for analyzing banking branch distribution and financial access across Nepal using machine learning methods. The study combines branch-level data, demographic information, and local administrative features to identify underserved areas and provide insights for branch expansion and financial inclusion planning.
 
 ---
