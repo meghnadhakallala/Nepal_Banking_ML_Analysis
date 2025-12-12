@@ -5,7 +5,7 @@ This repository contains code, datasets, and results for analyzing banking branc
 ---
 
 ## Project Structure
-
+```
 project_root/
 │
 ├─ data/              # Raw datasets
@@ -21,7 +21,7 @@ project_root/
 │   └─ tables/        # Numeric summaries, cluster tables, feature importance
 │
 └─ README.md          # This file
-
+```
 ---
 
 ## Contents
